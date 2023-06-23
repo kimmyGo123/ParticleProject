@@ -1,0 +1,3 @@
+Press "P" to start simulation
+currently simulating mesh emitter emission. to change to flow fields, comment back in the grid emission code (itll also get back up to 1000fps :))
+now working on mesh creation via particle vertices!
